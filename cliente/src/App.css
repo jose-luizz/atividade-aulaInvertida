@@ -1,0 +1,36 @@
+body {
+    font-family: American Typewriter, serif;	
+    background: #19809D; 
+    justify-content: center;
+    align-items: center;
+    height: 130vh;
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+}
+
+button{
+    width: 50%;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    background-color:#0E224C;
+    color:#d5dcf6;
+    font-size: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+    font-family: American Typewriter, serif;	
+}
+
+input{
+   width: 50%; 
+   background-color: aliceblue;
+   border-radius: 8px;
+   padding: 10px;
+   font-size: 15px;
+   margin-top: 15px;
+}
+
+h1{
+    font-size: 50px;
+}
